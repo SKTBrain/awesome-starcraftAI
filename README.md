@@ -4,20 +4,14 @@ A curated list of resources dedicated to StarCraft AI.
 
 We are looking for more contributors and maintainers!
 
-<div style="center">
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" height="300">
-</div>
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" width="45.5%">
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" width="53.5%">
 
-<figure>
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" height="300">
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" title="" height="290">
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" title="" height="290">
+<div align="center">Photo Credit: Gabriel Synnaeve <a href="http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html">Link</a></div>
 
-</figure>
 
-Photo Credit: Gabriel Synnaeve [[Link]](http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html)
-
-<br>
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" width="99.5%">
+<div align="center">Photo Credit: Google DeepMind <a href="https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/">Link</a></div>
 
 
 ## Table of Contents
