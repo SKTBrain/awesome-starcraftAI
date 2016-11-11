@@ -22,13 +22,16 @@ We are looking for more contributors and maintainers!
  - [Competitions](#competitions)
  - [Others](#others)
 
-
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" width="45.5%"><img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" width="53.5%"><div align="center">Photo Credit: Gabriel Synnaeve <a href="http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html">[Link]</a></div>
-
+<div>
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" width="45.5%"><img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" width="53.5%">
+<div align="center">Photo Credit: Gabriel Synnaeve <a href="http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html">[Link]</a></div>
+</div>
 <br>
-
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" width="99.5%"><div align="center">Photo Credit: Google DeepMind <a href="https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/">[Link]</a></div>
+<div>
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" width="99.5%">
+<div align="center">Photo Credit: Google DeepMind <a href="https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/">[Link]</a></div>
 <br>
+</div>
 
 
 ## API/Codes
