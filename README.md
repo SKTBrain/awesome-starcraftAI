@@ -22,7 +22,7 @@ We are looking for more contributors and maintainers!
  - [Competitions](#competitions)
  - [Others](#others)
 
-
+---
 <img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" width="45.5%">
 <img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" width="53.5%">
 <div align="center">Photo Credit: Gabriel Synnaeve <a href="http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html">Link</a></div>
@@ -31,8 +31,8 @@ We are looking for more contributors and maintainers!
 
 <img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" width="99.5%">
 <div align="center">Photo Credit: Google DeepMind <a href="https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/">Link</a></div>
-
 <br>
+---
 
 ## API/Codes
 - The Brood War API (BWAPI). [[GitHub]](https://github.com/bwapi/bwapi)
@@ -122,5 +122,6 @@ We are looking for more contributors and maintainers!
 - StarCraft II AI Blog, by Matt Fisher. [[Blog]](https://graphics.stanford.edu/~mdfisher/GameAIs.html)
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
 
-
+<br>
+---
 <div align="center">Maintainers: <a href="hshyunsookim.com">Hyunsoo Kim</a></div>
