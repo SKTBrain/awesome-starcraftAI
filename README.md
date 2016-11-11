@@ -5,18 +5,17 @@ A curated list of resources dedicated to StarCraft AI.
 We are looking for more contributors and maintainers!
 
 <div style="center">
-<img align="center" src="https://scontent.xx.fbcdn.net/v/t1.0-9/14355782_302910503413104_6891631993634370892_n.png?oh=82719817ad42487509778b34c4792305&oe=588F26CB" height="300">
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" height="300">
 </div>
 
 <figure>
-<img align="center" src="https://scontent.xx.fbcdn.net/v/t1.0-9/14355782_302910503413104_6891631993634370892_n.png?oh=82719817ad42487509778b34c4792305&oe=588F26CB" height="300">
-<img align="center" src="https://scontent.xx.fbcdn.net/v/t1.0-9/14322406_302910520079769_1227698224819854403_n.jpg?oh=76a56a6f5b124d03dc13c2e5728616d2&oe=58CA891C" title="" height="290">
-<img align="center" src="http://www.popsci.com/sites/popsci.com/files/styles/large_1x_/public/images/2016/11/aimap.png?itok=Tq37wEtW&fc=50,50" title="" height="290">
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" height="300">
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" title="" height="290">
+<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" title="" height="290">
 
 </figure>
-<div style="text-align:center">
+
 Photo Credit: Gabriel Synnaeve [[Link]](http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html)
-</div>
 
 <br>
 
