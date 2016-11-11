@@ -123,4 +123,4 @@ We are looking for more contributors and maintainers!
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
 
 
-<div class="align-center">Maintainers: [Hyunsoo Kim](hshyunsookim.com)</div>
+<div align="center">Maintainers: <a href="hshyunsookim.com">Hyunsoo Kim</a></div>
