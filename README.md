@@ -4,12 +4,15 @@ A curated list of resources dedicated to StarCraft AI.
 
 We are looking for more contributors and maintainers!
 
+<div style="text-align:center">
+
+
 <figure>
 <img src="https://scontent.xx.fbcdn.net/v/t1.0-9/14355782_302910503413104_6891631993634370892_n.png?oh=82719817ad42487509778b34c4792305&oe=588F26CB" height="300">
 <img src="https://scontent.xx.fbcdn.net/v/t1.0-9/14322406_302910520079769_1227698224819854403_n.jpg?oh=76a56a6f5b124d03dc13c2e5728616d2&oe=58CA891C" title="" height="290">
 </figure>
 Photo Credit: Gabriel Synnaeve [[Link]](http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html)
-
+</div>
 <br>
 
 
