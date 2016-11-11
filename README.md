@@ -4,7 +4,7 @@ A curated list of resources dedicated to StarCraft AI.
 
 We are looking for more contributors and maintainers!
 
-<div style="text-align:center">
+<div style="center">
 <img align="center" src="https://scontent.xx.fbcdn.net/v/t1.0-9/14355782_302910503413104_6891631993634370892_n.png?oh=82719817ad42487509778b34c4792305&oe=588F26CB" height="300">
 </div>
 
