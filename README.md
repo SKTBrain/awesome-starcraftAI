@@ -2,9 +2,8 @@
 
 A curated list of resources dedicated to StarCraft AI.
 
-Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/)
-
 We are looking for more contributors and maintainers!
+
 
 ## Table of Contents
  - [API/Codes](#apicodes)
@@ -112,3 +111,5 @@ We are looking for more contributors and maintainers!
 - StarCraft II AI Blog, by Matt Fisher. [[Blog]](https://graphics.stanford.edu/~mdfisher/GameAIs.html)
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
 
+
+Maintainers: [Hyunsoo Kim](hshyunsookim.com)
