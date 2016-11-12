@@ -1,3 +1,4 @@
+
 # Awesome StarCraft AI
 
 A curated list of resources dedicated to StarCraft AI.
@@ -51,6 +52,8 @@ We are looking for more contributors and maintainers!
 ## Research Papers
 ### Surveys
 - S. Ontanón, G. Synnaeve, A. Uriarte, F. Richoux, D. Churchill, M. Preuss, A survey of real-time strategy game ai research and competition in starcraft, IEEE CIG, 2013. [[Survey]](https://hal.inria.fr/file/index/docid/871001/filename/survey.pdf)
+- S. Ontañón, G. Synnaeve, A. Uriarte, F. Richoux, D. Churchill, M. Preuss, RTA AI Problems and Techniques, Springer Encyclopedia of Computer Graphics and Games, 2015. [[Survey]](http://richoux.fr/publications/ecgg15_chapter-rts_ai.pdf)
+- D. Churchill, M. Preuss, F. Richoux, G. Synnaeve, A. Uriarte, S. Ontañón, M. Certický, StarCraft Bots and Competitions, Springer Encyclopedia of Computer Graphics and Games, 2016. [[Survey]](http://richoux.fr/publications/ecgg16_chapter-sc_competitions.pdf)
 - R. Lara-Cabrera, C. Cotta, A. Fernandez-Leiva, A review of computational intelligence in RTS games, IEEE FOCI, 2013. [[Survery]](http://www.lcc.uma.es/~ccottap/papers/lara13review.pdf)
 
 ### Benchmark
@@ -69,6 +72,11 @@ We are looking for more contributors and maintainers!
 - G. Synnaeve, P. Bessiere, A bayesian model for opening prediction in rts games with application to starcraft, IEEE CIG, 2011. [[Paper]](https://hal.archives-ouvertes.fr/hal-00607277/file/OpeningPrediction.pdf)
 - G. Synnaeve, P. Bessiere, A Bayesian model for RTS units control applied to StarCraft, IEEE CIG, 2011. [[Paper]](https://hal.archives-ouvertes.fr/file/index/docid/607281/filename/BayesianUnit.pdf)
 - G. Synnaeve, P. Bessiere, Special tactics: A bayesian approach to tactical decision-making, IEEE CIG, 2012. [[Paper]](https://hal.archives-ouvertes.fr/hal-00752841/file/SpecialTactics.pdf)
+
+### Constraint and Optimization
+- F. Richoux, A. Uriarte, J.-F. Baffier, GHOST: A Combinatorial Optimization Framework for Real-Time Problems, IEEE TCIAIG, 2016. [[Paper]](http://richoux.fr/publications/tciaig16.pdf)
+- F. Richoux, A. Uriarte, S. Ontañón, Walling in Strategy Games via Constraint Optimization, AAAI AIIDE, 2014. [[Paper]](http://richoux.fr/publications/aiide14.pdf)
+- M. Certický, Implementing a Wall-In Building Placement in StarCraft with Declarative Programming, arXiv, 2013. [[Paper]](https://arxiv.org/pdf/1306.4460.pdf)
 
 ### Planning
 - B. Weber. M. Mateas, Case-Based Reasoning for Build Order in Real-Time Strategy Games, AAAI AIIDE, 2009. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/bweber_aiide_09.pdf)
