@@ -14,6 +14,7 @@ We are looking for more contributors and maintainers!
    - [Thesis](#thesis)
    - [Dataset](#dataset)
    - [Bayesian Approach](#bayesian-approach)
+   - [Satisfaction and Optimization](#satisfaction-and-optimization)
    - [Planning](#planning)
    - [Prediction](#prediction)
    - [Control](#control)
@@ -74,9 +75,10 @@ We are looking for more contributors and maintainers!
 - G. Synnaeve, P. Bessiere, Special tactics: A bayesian approach to tactical decision-making, IEEE CIG, 2012. [[Paper]](https://hal.archives-ouvertes.fr/hal-00752841/file/SpecialTactics.pdf)
 
 ### Satisfaction and Optimization
+- M. Certický, Implementing a Wall-In Building Placement in StarCraft with Declarative Programming, arXiv, 2013. [[Paper]](https://arxiv.org/pdf/1306.4460.pdf)
+- J. Fradin, F. Richoux,  Robustness and Flexibility of GHOST, AIIDE Third Workshop on Artificial Intelligence in Adversarial Real-Time Games, 2015. [[Paper]](http://richoux.fr/publications/aiide15.pdf)
 - F. Richoux, A. Uriarte, J.-F. Baffier, GHOST: A Combinatorial Optimization Framework for Real-Time Problems, IEEE TCIAIG, 2016. [[Paper]](http://richoux.fr/publications/tciaig16.pdf)
 - F. Richoux, A. Uriarte, S. Ontañón, Walling in Strategy Games via Constraint Optimization, AAAI AIIDE, 2014. [[Paper]](http://richoux.fr/publications/aiide14.pdf)
-- M. Certický, Implementing a Wall-In Building Placement in StarCraft with Declarative Programming, arXiv, 2013. [[Paper]](https://arxiv.org/pdf/1306.4460.pdf)
 
 ### Planning
 - B. Weber. M. Mateas, Case-Based Reasoning for Build Order in Real-Time Strategy Games, AAAI AIIDE, 2009. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/bweber_aiide_09.pdf)
