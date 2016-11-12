@@ -58,7 +58,7 @@ We are looking for more contributors and maintainers!
 - R. Lara-Cabrera, C. Cotta, A. Fernandez-Leiva, A review of computational intelligence in RTS games, IEEE FOCI, 2013. [[Survery]](http://www.lcc.uma.es/~ccottap/papers/lara13review.pdf)
 
 ### Benchmark
-- A. Uriarte, S. Ontã, A Benchmark for StarCraft Intelligent Agents, AAAI AIIDE, 2015. [[Paper]](https://pdfs.semanticscholar.org/bbe4/2896225a4202754a95cca76252313413a342.pdf)
+- A. Uriarte, S. Ontãñón, A Benchmark for StarCraft Intelligent Agents, AAAI AIIDE, 2015. [[Paper]](https://pdfs.semanticscholar.org/bbe4/2896225a4202754a95cca76252313413a342.pdf)
 
 ### Thesis
 - G. Synnaeve, Bayesian programming and learning for multi-player video games: application to RTS AI, Ph.D. Thesis, INPG, 2012. [[Thesis]](https://tel.archives-ouvertes.fr/tel-00780635/document)
@@ -107,7 +107,7 @@ We are looking for more contributors and maintainers!
 - J. Young, F. Smith, C. Atkinson, K. Poyner, T. Chothia, SCAIL: An integrated Starcrat AI system, IEEE CIG, 2012. [[Paper]](Jay Young, Fran Smith, Christopher Atkinson, Ken Poyner and Tom Chothia)
 
 ### Learning from Demonstration
-- B. Weber, S. Ontanon, Using Automated Replay Annotation for Case-Based Planning in Games, ICCBR-Games Workshop, 2010. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/iccbr-cg.pdf)
+- B. Weber, S. Ontañón, Using Automated Replay Annotation for Case-Based Planning in Games, ICCBR-Games Workshop, 2010. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/iccbr-cg.pdf)
 - B. Weber, M. Mateas, A. Jhala, Learning from Demonstration for Goal-Driven Autonomy, AAAI, 2012. [[Paper]](http://alumni.soe.ucsc.edu/~bweber/pubs/Weber-AAAI-2012.pdf)
 
 
