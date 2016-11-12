@@ -73,7 +73,7 @@ We are looking for more contributors and maintainers!
 - G. Synnaeve, P. Bessiere, A Bayesian model for RTS units control applied to StarCraft, IEEE CIG, 2011. [[Paper]](https://hal.archives-ouvertes.fr/file/index/docid/607281/filename/BayesianUnit.pdf)
 - G. Synnaeve, P. Bessiere, Special tactics: A bayesian approach to tactical decision-making, IEEE CIG, 2012. [[Paper]](https://hal.archives-ouvertes.fr/hal-00752841/file/SpecialTactics.pdf)
 
-### Constraint and Optimization
+### Satisfaction and Optimization
 - F. Richoux, A. Uriarte, J.-F. Baffier, GHOST: A Combinatorial Optimization Framework for Real-Time Problems, IEEE TCIAIG, 2016. [[Paper]](http://richoux.fr/publications/tciaig16.pdf)
 - F. Richoux, A. Uriarte, S. Ontañón, Walling in Strategy Games via Constraint Optimization, AAAI AIIDE, 2014. [[Paper]](http://richoux.fr/publications/aiide14.pdf)
 - M. Certický, Implementing a Wall-In Building Placement in StarCraft with Declarative Programming, arXiv, 2013. [[Paper]](https://arxiv.org/pdf/1306.4460.pdf)
