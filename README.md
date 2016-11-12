@@ -51,7 +51,7 @@ We are looking for more contributors and maintainers!
 
 ## Research Papers
 ### Surveys
-- S. Ontanón, G. Synnaeve, A. Uriarte, F. Richoux, D. Churchill, M. Preuss, A survey of real-time strategy game ai research and competition in starcraft, IEEE CIG, 2013. [[Survey]](https://hal.inria.fr/file/index/docid/871001/filename/survey.pdf)
+- S. Ontañón, G. Synnaeve, A. Uriarte, F. Richoux, D. Churchill, M. Preuss, A survey of real-time strategy game ai research and competition in starcraft, IEEE TCIAIG, 2013. [[Survey]](https://hal.inria.fr/file/index/docid/871001/filename/survey.pdf)
 - S. Ontañón, G. Synnaeve, A. Uriarte, F. Richoux, D. Churchill, M. Preuss, RTA AI Problems and Techniques, Springer Encyclopedia of Computer Graphics and Games, 2015. [[Survey]](http://richoux.fr/publications/ecgg15_chapter-rts_ai.pdf)
 - D. Churchill, M. Preuss, F. Richoux, G. Synnaeve, A. Uriarte, S. Ontañón, M. Certický, StarCraft Bots and Competitions, Springer Encyclopedia of Computer Graphics and Games, 2016. [[Survey]](http://richoux.fr/publications/ecgg16_chapter-sc_competitions.pdf)
 - R. Lara-Cabrera, C. Cotta, A. Fernandez-Leiva, A review of computational intelligence in RTS games, IEEE FOCI, 2013. [[Survery]](http://www.lcc.uma.es/~ccottap/papers/lara13review.pdf)
