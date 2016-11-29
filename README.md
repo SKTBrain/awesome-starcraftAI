@@ -101,6 +101,7 @@ We are looking for more contributors and maintainers!
 - S. Wender, I. Watson, Applying Reinforcement Learning to Small Scale Combat in the Real-Time Strategy Game StarCraft: Broodwar, IEEE CIG, 2012. [[Paper]](https://pdfs.semanticscholar.org/1308/c8326203caec91a7c44ffd1dfe86dd227c7f.pdf)
 - D. Churchill, M. Buro, Portfolio Greedy Search and Simulation for Large-Scale Combat in StarCraft, IEEE CIG, 2013. [[Paper]](https://pdfs.semanticscholar.org/9fcc/5d4c04db820a7ca5197285cded68fed29f65.pdf)
 - K. Nguyen, Z. Wang, R. Thawonmas, Potential Flows for Controlling Scout Units in StarCraft, IEEE CIG, 2013. [[Paper]](http://eldar.mathstat.uoguelph.ca/dashlock/CIG2013/papers/paper_87.pdf)
+- N. Usunier, G. Synnaeve, Z. Lin, S. Chintala, Episodic Exploration for Deep Deterministic Policies: an Application to StarCraft Micromanagement Tasks, arXiv, 2016. [[arXiv]](https://arxiv.org/pdf/1609.02993v3.pdf) [[ICLR 2016 Submission]](https://openreview.net/pdf?id=r1LXit5ee)
 
 ### Full Game Play
 - B. Weber, M. Mateas, A. Jhala, Building Human-Level AI for Real-Time Strategy Games, AAAI ACS 2011. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/weber-acs2011.pdf)
