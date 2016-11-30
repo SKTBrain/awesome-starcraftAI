@@ -105,7 +105,7 @@ We are looking for more contributors and maintainers!
 
 ### Full Game Play
 - B. Weber, M. Mateas, A. Jhala, Building Human-Level AI for Real-Time Strategy Games, AAAI ACS 2011. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/weber-acs2011.pdf)
-- J. Young, F. Smith, C. Atkinson, K. Poyner, T. Chothia, SCAIL: An integrated Starcrat AI system, IEEE CIG, 2012. [[Paper]](Jay Young, Fran Smith, Christopher Atkinson, Ken Poyner and Tom Chothia)
+- J. Young, F. Smith, C. Atkinson, K. Poyner, T. Chothia, SCAIL: An integrated Starcrat AI system, IEEE CIG, 2012. [[Paper]](http://geneura.ugr.es/cig2012/papers/paper103.pdf)
 
 ### Learning from Demonstration
 - B. Weber, S. Ontañón, Using Automated Replay Annotation for Case-Based Planning in Games, ICCBR-Games Workshop, 2010. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/iccbr-cg.pdf)
