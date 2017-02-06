@@ -20,6 +20,7 @@ We are looking for more contributors and maintainers!
    - [Control](#control)
    - [Full Game Play](#full-game-play)
    - [Learning from Demonstration](#learning-from-demonstration)
+   - [Miscellaneous](#miscellaneous)
  - [Reports](#reports)
  - [Competitions](#competitions)
  - [Others](#others)
@@ -92,6 +93,7 @@ We are looking for more contributors and maintainers!
 - H. Park, H. Cho, K. Lee, K. Kim, Prediction of Early Stage Opponents Strategy for StarCraft AI using Scouting and Machine Learning, Workshop at SIGGRAPH Asia, 2012. [[Paper]](https://pdfs.semanticscholar.org/0805/94e9ae896d1b1df508575e8dc8546c26e938.pdf)
 - H. Cho, K. Kim, S. Cho, Replay-based Strategy Prediction and Build Order Adaptation for StarCraft AI Bots, IEEE CIG, 2013. [[Paper]](http://cilab.sejong.ac.kr/home/lib/exe/fetch.php?media=public:paper:cig_2013.pdf)
 - M. Stanescu, S. Hernandez, G. Erickson, R. Greiner, M. Buro, Predicting Army Combat Outcomes in StarCraft, AAAI AIIDE, 2013. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.7272&rep=rep1&type=pdf)
+- Y. N. Ravari, S. Bakkes, P. Spronck, StarCraft Winner Prediction, AAAI AIIDE, 2016. [[Paper]](https://pure.uvt.nl/portal/files/13692982/NorouzzadehRavari.pdf)
 
 ### Control
 - B. Weber, M. Mateas, A. Jhala, A Particle Model for State Estimation in Real-Time Strategy Games, AAAI AIIDE, 2011. [[Paper]](http://alumni.soe.ucsc.edu/~bweber/pubs/weber_aiide11.pdf)
@@ -110,7 +112,13 @@ We are looking for more contributors and maintainers!
 ### Learning from Demonstration
 - B. Weber, S. Ontañón, Using Automated Replay Annotation for Case-Based Planning in Games, ICCBR-Games Workshop, 2010. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/iccbr-cg.pdf)
 - B. Weber, M. Mateas, A. Jhala, Learning from Demonstration for Goal-Driven Autonomy, AAAI, 2012. [[Paper]](http://alumni.soe.ucsc.edu/~bweber/pubs/Weber-AAAI-2012.pdf)
+- J. Young, N. Hawes, Learning Micro-Management Skills in RTS Games by Imitating Experts, AAAI AIIDE, 2014. [[Paper]](https://pdfs.semanticscholar.org/0a51/c01c7a3ff9c73c0e518e6eef51f30f71f4ba.pdf)
 
+### Miscellaneous 
+- W. Gong, E. Lim, P. Achananuparp, F. Zhu, D. Lo, F. Chua, In-Game Action List Segmentation and Labeling in Real-Time Strategy Games, IEEE CIG, 2012. [[Paper]](http://www.mysmu.edu/faculty/fdzhu/paper/CIG'12.pdf)
+- H. Alburg, F. Brynfors, F. Minges, B. Mattson, J. Svensson, Making and Acting on Predictions in StarCraft: Brood War, Bachelors Thesis, University of Gothenburg, 2014. [[Theis]](http://publications.lib.chalmers.se/records/fulltext/203120/203120.pdf)
+- M. Leece, A. Jhala, Sequential Pattern Mining in StarCraft: Brood War for Short and Long-Term Goals, AAAI AIIDE Workshop, 2014. [[Paper]](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/viewFile/9082/9011)
+- G. Erickson, M. Buro, Global State Evaluation in StarCraft, AAAI AIIDE, 2014. [[Paper]](https://www.skatgame.net/mburo/ps/GlobalStateEval-AIIDE-2014.pdf)
 
 ## Reports
 - J. Lewis, P. Trinh, D. Kirsh, A Corpus Analysis of Strategy Video Game Play in Starcraft: Brood War, COGSCI, 2011. [[Paper]](http://mindmodeling.org/cogsci2011/papers/0138/paper0138.pdf)
