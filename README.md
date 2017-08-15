@@ -87,6 +87,7 @@ We are looking for more contributors and maintainers!
 - D. Churchill, M. Buro, Build Order Optimization in StarCraft, AAAI AIIDE, 2011. [[Paper]](https://pdfs.semanticscholar.org/dfd9/1e739bd979c08485a75fd11c501a6ec05118.pdf)
 - D. Churchill, M. Buro, Incorporating Search Algorithms into RTS Game Agents, AAAI AIIDE Workshop, 2012. [[Paper]](http://musicweb.ucsd.edu/~sdubnov/Mu270d/AIIDE12/03/WS12-15-005.pdf)
 - M. Stanescu, N. Barriga, M. Buro, Hierarchical Adversarial Search Applied to Real-Time Strategy Games, AAAI AIIDE, 2014. [[Paper]](https://pdfs.semanticscholar.org/1ea1/20c8ad129f4984a4bee95096efa4115e8f62.pdf)
+- N. Justesen, S. Risi, Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft, ACM GECCO, 2017. [[Paper]](https://njustesen.files.wordpress.com/2017/04/njustesen-gecco-2017-continual-online-evolutionary.pdf)
 
 ### Prediction
 - B. Weber, M. Mateas, A Data mining approach to strategy prediction, IEEE CIG, 2009. [[Paper]](http://alumni.soe.ucsc.edu/~bweber/pubs/cig_2009.pdf)
@@ -103,6 +104,7 @@ We are looking for more contributors and maintainers!
 - S. Wender, I. Watson, Applying Reinforcement Learning to Small Scale Combat in the Real-Time Strategy Game StarCraft: Broodwar, IEEE CIG, 2012. [[Paper]](https://pdfs.semanticscholar.org/1308/c8326203caec91a7c44ffd1dfe86dd227c7f.pdf)
 - D. Churchill, M. Buro, Portfolio Greedy Search and Simulation for Large-Scale Combat in StarCraft, IEEE CIG, 2013. [[Paper]](https://pdfs.semanticscholar.org/9fcc/5d4c04db820a7ca5197285cded68fed29f65.pdf)
 - K. Nguyen, Z. Wang, R. Thawonmas, Potential Flows for Controlling Scout Units in StarCraft, IEEE CIG, 2013. [[Paper]](http://eldar.mathstat.uoguelph.ca/dashlock/CIG2013/papers/paper_87.pdf)
+- N. Justesen, S. Risi, Script-and Cluster-Based UCT for StarCraft, IEEE CIG, 2014. [[Paper]](https://njustesen.files.wordpress.com/2017/02/njustesen2014script.pdf)
 - N. Usunier, G. Synnaeve, Z. Lin, S. Chintala, Episodic Exploration for Deep Deterministic Policies: an Application to StarCraft Micromanagement Tasks, arXiv, 2016. [[arXiv]](https://arxiv.org/pdf/1609.02993v3.pdf) [[ICLR 2017 Submission]](https://openreview.net/pdf?id=r1LXit5ee)
 
 ### Full Game Play
@@ -113,6 +115,7 @@ We are looking for more contributors and maintainers!
 - B. Weber, S. Ontañón, Using Automated Replay Annotation for Case-Based Planning in Games, ICCBR-Games Workshop, 2010. [[Paper]](https://games.soe.ucsc.edu/sites/default/files/iccbr-cg.pdf)
 - B. Weber, M. Mateas, A. Jhala, Learning from Demonstration for Goal-Driven Autonomy, AAAI, 2012. [[Paper]](http://alumni.soe.ucsc.edu/~bweber/pubs/Weber-AAAI-2012.pdf)
 - J. Young, N. Hawes, Learning Micro-Management Skills in RTS Games by Imitating Experts, AAAI AIIDE, 2014. [[Paper]](https://pdfs.semanticscholar.org/0a51/c01c7a3ff9c73c0e518e6eef51f30f71f4ba.pdf)
+- N. Justesen, S. Risi, Learning Macromanagement in StarCraft from Replays using Deep Learning, IEEE CIG, 2017. [[Paper]](Learning Macromanagement in StarCraft from Replays using Deep Learning)
 
 ### Miscellaneous 
 - W. Gong, E. Lim, P. Achananuparp, F. Zhu, D. Lo, F. Chua, In-Game Action List Segmentation and Labeling in Real-Time Strategy Games, IEEE CIG, 2012. [[Paper]](http://www.mysmu.edu/faculty/fdzhu/paper/CIG'12.pdf)
