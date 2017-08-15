@@ -50,6 +50,7 @@ We are looking for more contributors and maintainers!
 - TeamLiquid, professional community with tournament match replays. [[Link]](http://www.teamliquid.net/replay/index.php)
 - ICCUP, International Cyber Cup, professional community with tournament match replays. [[Link]](http://iccup.com/en/starcraft/replays.html)
 - BWReplays, a compilation of replays including previous resources. [[Link]](http://bwreplays.com/)
+- StarData, a collection of 65646 StarCraft: Brood War replay dataset [[GitHub]](https://github.com/TorchCraft/StarData) [[UnitType Data]](https://docs.google.com/spreadsheets/d/1jlYDkXW2pQey1oGJlQRBiGjdMs0kfrdHAwzVI2zAjrU/edit#gid=0) [[WeaponType Data]](https://docs.google.com/spreadsheets/d/1YWFzY0_MEE4fOy9HrvZCYSpRqjgSBdCeRYVxB6zmJpQ/edit#gid=0) [[TechType Data]](https://docs.google.com/spreadsheets/d/1FpB8e7VJYubaqTtMLoc457a319Wu8yT8jTM6hPq6pT8/edit#gid=0)
 
 ## Research Papers
 ### Surveys
@@ -69,6 +70,7 @@ We are looking for more contributors and maintainers!
 ### Dataset
 - G. Synnaeve, P. Bessiere, A Dataset for StarCraft AI & an Example of Armies Clustering, arXiv, 2012. [[Paper]](https://arxiv.org/pdf/1211.4552.pdf)
 - G. Robertson, I. Watson, An Improved Dataset and Extraction Process for Starcraft AI, FLAIRS, 2014. [[Paper]](https://pdfs.semanticscholar.org/1bb9/3ae33a6367ef12c9a4b7a025710495167046.pdf)
+- Z. Lin, J. Gehring, V. Khalidov, G. Synnaeve, STARDATA: A StarCraft AI Research Dataset, arXiv, 2017. [[Paper]](https://arxiv.org/abs/1708.02139)
 
 ### Bayesian Approach
 - G. Synnaeve, P. Bessiere, A bayesian model for opening prediction in rts games with application to starcraft, IEEE CIG, 2011. [[Paper]](https://hal.archives-ouvertes.fr/hal-00607277/file/OpeningPrediction.pdf)
