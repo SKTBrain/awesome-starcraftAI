@@ -145,6 +145,7 @@ We are looking for more contributors and maintainers!
 - StarCraft AI Blog, by Jay Scott. [[Blog]](http://satirist.org/ai/starcraft/blog/)
 - StarCraft II AI Blog, by Matt Fisher. [[Blog]](https://graphics.stanford.edu/~mdfisher/GameAIs.html)
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
+- Ongoing survey on StarCraft research, by Vitaly Kurin [[Blog]](https://yobibyte.github.io/starcraft-research.html)
 
 <br>
 <div align="center">Maintainer: <a href="https://github.com/hshyunsookim">Hyunsoo Kim</a></div>
